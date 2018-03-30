@@ -2,14 +2,14 @@
 
 ## Liste des tâches à effectuer
 
-- [ ] Receuil d'experience (BLSNet/Application Monolithique)
+- [ ] Receuil d'experience (Application Monolithique)
 - [X] Quelles alternatives au monolithique ?
 - [ ] IFrames - Comment ca fonctionne ?
 - [ ] IFrames - Avantages / Inconvénients 
 - [ ] Web Components - Comment ca fonctionne ?
 - [ ] Web Components - Avantages / Inconvénients
-- [ ] Framework intégrés - Comment ca fonctionne ?
-- [ ] Framework intégrés - Avantages / Inconvénients
+- [ ] Frameworks - Comment ca fonctionne ?
+- [ ] Frameworks - Avantages / Inconvénients
 - [ ] Créer un composant gérant le login de l'application 
 principale
 - [ ] Créer un composant gérant le changement de langue
@@ -22,7 +22,7 @@ principale
 - [ ] Gestion des dépendances externes partagés
 - [ ] Ansible - IT Automation
 
-## Receuil d'experience (BLSNet/Application Monolithique)
+## Receuil d'experience (Application Monolithique)
 
 - Base de code énorme
 - Instabilité de l'application plus fréquente pour le 
