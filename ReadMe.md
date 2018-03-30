@@ -4,11 +4,10 @@
 
 - [ ] Receuil d'experience (BLSNet/Application Monolithique)
 - [ ] Quelles alternatives au monolithique ?
-- [ ] Comment faire du micro services front end ?
 - [ ] IFrames - Comment ca fonctionne ?
 - [ ] IFrames - Avantages / Inconvénients 
-- [ ] Customs Elements - Comment ca fonctionne ?
-- [ ] Customs Elements - Avantages / Inconvénients
+- [ ] Web Components - Comment ca fonctionne ?
+- [ ] Web Components - Avantages / Inconvénients
 - [ ] Framework intégrés - Comment ca fonctionne ?
 - [ ] Framework intégrés - Avantages / Inconvénients
 - [ ] Créer un composant gérant le login de l'application 
@@ -58,5 +57,44 @@ pourrais avoir le choix de la technologie à utiliser et
 serait responsable du developpement, de l'evolution et de la
 maintenance de son/ses module(s).
 
+### Quelles options pour le developpeur ?
+
+#### Les frameworks
+
+Les frameworks nous imposent un cadre et nous poussent à
+réfléchir et développer comme l'auteur du Framework.
+Ils necessitent également d'investir sur la formation à
+chaque sortie d'un nouveau framework.
+Le pattern suivant résume bien l'histoire qu'il peut y avoir
+entre un developpeur et un framework :
+
+##### Rinse, Wash, Repeat (…Forever…)
+
+- “Cool” Framework comes out
+- Learn “Cool” Framework
+- Create “Cool” web app
+- Next year…
+- “COOLER” Framework comes out
+- Abandon “Cool Legacy” web app
+- Learn “COOLER” Framework
+- Build new and improved “COOLER” web app
+- Rinse, Wash, Repeat... 
+
+Malgré tout, le fait d'avoir un cadre peut être rassurant pour un developpeur.
+Il impose généralement l'utisation de bonnes pratiques et 
+l'assurance d'une evolution constante (jusqu'au prochain
+nouveau framework).
+Chacun des frameworks dispose aussi d'une communauté de 
+développeur plus au mois grande qui permet le partage de 
+connaissances.
+
+
 _The difference between an app and a component has nothing to do with the amount of code it has, I like to put it simple: apps don't depend on others to live, while a component can only work within an app._
 
+## Links
+
+[Building Microfrontends](https://medium.com/@_rchaves_/building-microfrontends-part-i-creating-small-apps-710d709b48b7)
+
+[Frameworks vs Web Components](https://medium.com/@oneeezy/frameworks-vs-web-components-9a7bd89da9d4)
+
+[Micro frontends](https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16)
