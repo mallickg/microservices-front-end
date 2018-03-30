@@ -93,6 +93,18 @@ connaissances.
 ![alt text](https://cdn-images-1.medium.com/max/800/1*V3Dyq3LSEElX4u3EQTUBrQ.png)
 
 
+#### Les Web Components
+
+Les Web Components sont un nouveau standard du W3C (Consortium international travaillant
+à l'élaboration de nouveaux standard du developpement
+WEB). Ils sont aujourd'hui supporté de façon native par Google Chrome
+et via des polyfills pour les autres navigateurs.
+Il donnent la possibilité de _composantiser_ le WEB avec de petits
+modules reutilisable qui s'intègre dans des applications
+WEB comme dans un puzzle.   
+Le plus intéresssant et qu'il ne sont dépendant d'aucun
+framework car il sont écrit en pur HTML, CSS et JavaScript.
+
 _The difference between an app and a component has nothing to do with the amount of code it has, I like to put it simple: apps don't depend on others to live, while a component can only work within an app._
 
 ## Links
