@@ -2,7 +2,25 @@
 
 ## Liste des tâches à effectuer
 
-- [ ] Recceuil d'experience (BLSNet/Application Monolithique)
+- [ ] Receuil d'experience (BLSNet/Application Monolithique)
+- [ ] Pourquoi les micro services front end ?
+- [ ] IFrames - Comment ca fonctionne ?
+- [ ] IFrames - Avantages / Inconvénients 
+- [ ] Customs Elements - Comment ca fonctionne ?
+- [ ] Customs Elements - Avantages / Inconvénients
+- [ ] Framework intégrés - Comment ca fonctionne ?
+- [ ] Framework intégrés - Avantages / Inconvénients
+- [ ] Créer un composant gérant le login de l'application 
+principale
+- [ ] Créer un composant gérant le changement de langue
+- [ ] Créer un composant "Menu"
+- [ ] Créer un composant "feature 1"
+- [ ] Créer un composant "feature 2"
+- [ ] Créer un composant "feature 3"
+- [ ] Faire communiquer 2 composants 
+- [ ] Gestion du routage
+- [ ] Gestion des dépendances externes partagés
+- [ ] Ansible - IT Automation
 
 L'idée est de remplacer le front end d'une application web
 devenue trop grosse. Pour ce faire, nous pourrions 
@@ -36,9 +54,6 @@ l'application à cause de la taille de la base de code et des
 techniologies devenues veillissantes avec le temps.
 - La defaillance d'une fonctionnalité peut engendrer 
 l'indisponibilité ou l'instabilité de l'application entière.
-
-TODO Pourquoi ne pas faire un reccueil d'experience de chacun des
-membres de l'équipe ? 
 
 
 ## How  to display severals widget in a same page ?
