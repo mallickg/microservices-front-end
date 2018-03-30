@@ -88,6 +88,10 @@ Chacun des frameworks dispose aussi d'une communauté de
 développeur plus au mois grande qui permet le partage de 
 connaissances.
 
+Historique des Frameworks JavaScript (liste non-exhaustive) :
+
+![alt text](https://cdn-images-1.medium.com/max/800/1*V3Dyq3LSEElX4u3EQTUBrQ.png)
+
 
 _The difference between an app and a component has nothing to do with the amount of code it has, I like to put it simple: apps don't depend on others to live, while a component can only work within an app._
 
