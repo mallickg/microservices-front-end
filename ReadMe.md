@@ -2,15 +2,7 @@
 
 ## Liste des tâches à effectuer
 
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [X] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [ ] Recceuil d'experience (BLSNet/Application Monolithique)
 
 L'idée est de remplacer le front end d'une application web
 devenue trop grosse. Pour ce faire, nous pourrions 
