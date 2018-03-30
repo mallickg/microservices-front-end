@@ -88,7 +88,7 @@ Chacun des frameworks dispose aussi d'une communauté de
 développeur plus au mois grande qui permet le partage de 
 connaissances.
 
-Historique des Frameworks JavaScript (liste non-exhaustive) :
+##### Historique des Frameworks JavaScript (liste non-exhaustive) :
 
 ![alt text](https://cdn-images-1.medium.com/max/800/1*V3Dyq3LSEElX4u3EQTUBrQ.png)
 
