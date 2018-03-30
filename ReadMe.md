@@ -3,7 +3,7 @@
 ## Liste des tâches à effectuer
 
 - [ ] Receuil d'experience (BLSNet/Application Monolithique)
-- [ ] Quelles alternatives au monolithique ?
+- [X] Quelles alternatives au monolithique ?
 - [ ] IFrames - Comment ca fonctionne ?
 - [ ] IFrames - Avantages / Inconvénients 
 - [ ] Web Components - Comment ca fonctionne ?
@@ -107,8 +107,20 @@ framework car il sont écrit en pur HTML, CSS et JavaScript.
 Pour autant, il n'empeche pas de pouvoir écrire ces composants à l'aide d'un framework
 mais il seront alors encapsulés dans le web component.
 
+#### Les IFrames
+
+Les IFrames fournissent une encapsulation complète ce qui est
+à la fois bon et mauvais.
+Le bon coté est que cela ne vas pas casser ce qui aura autour et
+vice-versa.
+Le mauvais coté est que l'on ne va pas pouvoir partager 
+du CSS, des librairies et la communication sera plus difficile. 
+
+## Vocabulaire
 
 _The difference between an app and a component has nothing to do with the amount of code it has, I like to put it simple: apps don't depend on others to live, while a component can only work within an app._
+
+_A page is a group of apps working together to show, well, a page for the user. For example, the homepage, the user’s account page, etc, those pages are composed of multiple apps working together._
 
 ## Links
 
