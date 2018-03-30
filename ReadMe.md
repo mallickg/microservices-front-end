@@ -3,7 +3,8 @@
 ## Liste des tâches à effectuer
 
 - [ ] Receuil d'experience (BLSNet/Application Monolithique)
-- [ ] Pourquoi les micro services front end ?
+- [ ] Quelles alternatives au monolithique ?
+- [ ] Comment faire du micro services front end ?
 - [ ] IFrames - Comment ca fonctionne ?
 - [ ] IFrames - Avantages / Inconvénients 
 - [ ] Customs Elements - Comment ca fonctionne ?
@@ -22,17 +23,7 @@ principale
 - [ ] Gestion des dépendances externes partagés
 - [ ] Ansible - IT Automation
 
-L'idée est de remplacer le front end d'une application web
-devenue trop grosse. Pour ce faire, nous pourrions 
-imaginer diviser cette application en plusieurs petites 
-modules. De donner chaque module à des developpeurs différents 
-ou à des équipes de developpement différentes pour ensuite les 
-agréger sur un même front end. Chaque developpeur ou équipe
-pourrais avoir le choix de la technologie à utiliser et 
-serait responsable du developpement, de l'evolution et de la
-maintenance de son/ses module(s).
-
-### Qu'est qu'une application trop grosse ?
+## Receuil d'experience (BLSNet/Application Monolithique)
 
 - Base de code énorme
 - Instabilité de l'application plus fréquente pour le 
@@ -55,6 +46,17 @@ techniologies devenues veillissantes avec le temps.
 - La defaillance d'une fonctionnalité peut engendrer 
 l'indisponibilité ou l'instabilité de l'application entière.
 
+## Quelles alternatives au monolithique ?
 
-## How  to display severals widget in a same page ?
+L'idée est de remplacer le front end d'une application web
+devenue trop grosse. Pour ce faire, nous pourrions 
+imaginer diviser cette application en plusieurs petites 
+modules. De donner chaque module à des developpeurs différents 
+ou à des équipes de developpement différentes pour ensuite les 
+agréger sur un même front end. Chaque developpeur ou équipe
+pourrais avoir le choix de la technologie à utiliser et 
+serait responsable du developpement, de l'evolution et de la
+maintenance de son/ses module(s).
+
+_The difference between an app and a component has nothing to do with the amount of code it has, I like to put it simple: apps don't depend on others to live, while a component can only work within an app._
 
