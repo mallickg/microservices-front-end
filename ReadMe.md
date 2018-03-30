@@ -104,6 +104,9 @@ modules reutilisable qui s'intègre dans des applications
 WEB comme dans un puzzle.   
 Le plus intéresssant et qu'il ne sont dépendant d'aucun
 framework car il sont écrit en pur HTML, CSS et JavaScript.
+Pour autant, il n'empeche pas de pouvoir écrire ces composants à l'aide d'un framework
+mais il seront alors encapsulés dans le web component.
+
 
 _The difference between an app and a component has nothing to do with the amount of code it has, I like to put it simple: apps don't depend on others to live, while a component can only work within an app._
 
