@@ -1,6 +1,6 @@
 # MicroServices Frond-End - Pilot Project
 
-### Liste des tâches à effectuer
+## Liste des tâches à effectuer
 
 - [ ] Mercury
 - [x] Venus
