@@ -100,6 +100,8 @@ Un framework c'est :
 - 1 ou plusieurs pages
 - 1 ou plusieurs composant par page 
 
+TODO -> Faire un schéma.
+
 Le mixte des technologies est possible mais est 
 complexe et n'a pas vraiment de sens.
 
@@ -127,6 +129,8 @@ Les Web components c'est :
 - 1 application de navigation
 - 1 ou plusieurs (micro) applications 
 
+TODO -> Faire un schéma.
+
 #### Les IFrames
 
 Les IFrames fournissent une encapsulation complète ce qui est
@@ -141,6 +145,8 @@ Les IFrames c'est :
 - 1 page
 - 1 ou plusieurs IFrame(s)
 - 1 application par Iframes.
+
+TODO -> Faire un schéma.
 
 ## Vocabulaire
 
