@@ -94,6 +94,8 @@ l'utilisation des Web Commponents.
 Neammoins, on reste dans le cadre imposé par le framework
 mais le partage de resources (CSS, librairies externes) et la comunication entre
 les modules parait alors simplifié.
+Il n'est également pas possible de packager, déployer et 
+démarrer des parties de l'application de facon indépendante.
 
 Un framework c'est :
 - 1 application (composant de navigation interne)   
@@ -123,6 +125,8 @@ Le plus intéresssant et qu'il ne sont dépendant d'aucun
 framework car il sont écrit en pur HTML, CSS et JavaScript.
 Pour autant, il n'empeche pas de pouvoir écrire ces composants à l'aide d'un framework
 mais il seront alors encapsulés dans le web component.
+Possibilité de packager, déployer et démarrer 1 (micro) 
+application de facon indépendante.
 
 Les Web components c'est :
 - 1 page
@@ -139,6 +143,8 @@ Le bon coté est que cela ne va pas casser ce qui aura autour et
 vice-versa.
 Le mauvais coté est que l'on ne va pas pouvoir partager 
 du CSS, des librairies et la communication sera plus complexe. 
+Possibilité de packager, déployer et démarrer 1 application de facon
+indépendante.
 
 Les IFrames c'est :
 
