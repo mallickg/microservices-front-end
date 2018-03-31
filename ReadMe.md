@@ -87,6 +87,21 @@ nouveau framework).
 Chacun des frameworks dispose aussi d'une communauté de 
 développeur plus au mois grande qui permet le partage de 
 connaissances.
+L'approche modulaire que l'on peut avoir aujourd'hui avec
+certain framework Javascript comme Angular et React permet
+néanmoins de se rapprocher de la souplesse que laisse entrevoir
+l'utilisation des Web Commponents.
+Neammoins, on reste dans le cadre imposé par le framework
+mais le partage de resources (CSS, librairies externes) et la comunication entre
+les modules parait alors simplifié.
+
+Un framework c'est :
+- 1 application (composant de navigation interne)   
+- 1 ou plusieurs pages
+- 1 ou plusieurs composant par page 
+
+Le mixte des technologies est possible mais est 
+complexe et n'a pas vraiment de sens.
 
 ##### Historique des Frameworks JavaScript (liste non-exhaustive) :
 
@@ -107,14 +122,25 @@ framework car il sont écrit en pur HTML, CSS et JavaScript.
 Pour autant, il n'empeche pas de pouvoir écrire ces composants à l'aide d'un framework
 mais il seront alors encapsulés dans le web component.
 
+Les Web components c'est :
+- 1 page
+- 1 application de navigation
+- 1 ou plusieurs (micro) applications 
+
 #### Les IFrames
 
 Les IFrames fournissent une encapsulation complète ce qui est
 à la fois bon et mauvais.
-Le bon coté est que cela ne vas pas casser ce qui aura autour et
+Le bon coté est que cela ne va pas casser ce qui aura autour et
 vice-versa.
 Le mauvais coté est que l'on ne va pas pouvoir partager 
-du CSS, des librairies et la communication sera plus difficile. 
+du CSS, des librairies et la communication sera plus complexe. 
+
+Les IFrames c'est :
+
+- 1 page
+- 1 ou plusieurs IFrame(s)
+- 1 application par Iframes.
 
 ## Vocabulaire
 
